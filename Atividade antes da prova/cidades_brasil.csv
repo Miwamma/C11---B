@@ -1,0 +1,26 @@
+cidade,estado,populacao,area_km2,idh,regiao,fundacao
+Sao Paulo,SP,12325232,1521,0.805,Sudeste,1554
+Rio de Janeiro,RJ,6748000,1200,0.799,Sudeste,1565
+Brasilia,DF,3055149,5802,0.824,Centro-Oeste,1960
+Salvador,BA,2886698,693,0.759,Nordeste,1549
+Fortaleza,CE,2703391,314,0.754,Nordeste,1726
+Belo Horizonte,MG,2530701,331,0.810,Sudeste,1897
+Manaus,AM,2255903,11401,0.737,Norte,1669
+Curitiba,PR,1963726,435,0.823,Sul,1693
+Recife,PE,1661681,218,0.772,Nordeste,1537
+Goiania,GO,1555626,739,0.799,Centro-Oeste,1933
+Belem,PA,1506420,1065,0.746,Norte,1616
+Porto Alegre,RS,1492530,497,0.805,Sul,1772
+Guarulhos,SP,1404694,318,0.763,Sudeste,1560
+Campinas,SP,1223237,795,0.805,Sudeste,1774
+Sao Luis,MA,1115932,827,0.768,Nordeste,1612
+Maceio,AL,1025360,510,0.721,Nordeste,1815
+Campo Grande,MS,916001,8093,0.784,Centro-Oeste,1899
+Natal,RN,896708,167,0.763,Nordeste,1599
+Teresina,PI,871126,1392,0.751,Nordeste,1852
+Joao Pessoa,PB,833932,211,0.763,Nordeste,1585
+Florianopolis,SC,516524,675,0.847,Sul,1726
+Vitoria,ES,365855,98,0.845,Sudeste,1551
+Santos,SP,433656,281,0.840,Sudeste,1546
+Santa Rita do Sapucai,MG,44686,350,0.721,Sudeste,1880
+Ouro Preto,MG,74824,1245,0.741,Sudeste,1711
